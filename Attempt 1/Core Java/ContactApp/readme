@@ -1,0 +1,116 @@
+# How to create ContactApp
+
+## Steps to be followed
+
+1. Create .java file
+
+2. Have 2 scanners to take user inputs
+
+3. Have one directory that will show you the path from where you are creating contactapp
+
+4. Store that directory in a file and use it for the rest of .java file.
+
+5. Make scanner , file , final string directory as instance variables and intialise them in intialiser
+
+6. Create menuOneoption method that will display user the menu1.
+
+7. Create menuTwoOption which in turn displays the inner menu to the user
+
+8 .The working of both menuOne and menuTwo methods will be in form methods created using switch loop in processMenuone option and ProcessMenuTwoOption
+
+9.  Create createContactmethod to create file that saves all the data.
+
+```
+a) check in the path whether there is any .txt file
+b) take a file name as input form user
+c) Check is there any file that matches to the fileName given my user ,if there is no match
+d) Create txt file in the name the user provides.
+e) if the file already exists, create another method and take inputs form user and again check file exists.
+f)if not create a new file and take the user to inner menu
+
+```
+
+10. Create loadContactApp method that will list the txt files present in that select the txt file which you want to load
+
+```
+a) using scanner take inputs from user which txt file the user wishes to load.
+b) check in the path whether there is any .txt file
+c) if the  input from user matches with txt file ,take the user to inner menu
+
+```
+
+11. Create searchContactApp method that will search among .txt files
+
+```
+a) using scanner take inputs from user which txt file the user wishes to search.
+b) check in the path whether there is any .txt file
+c) if the  input from user matches with txt file ,take the user to inner menu
+```
+
+12. Create listContactApp method that will list all txt files.
+
+```
+a) using for loop ,print all txt files form directory
+```
+
+13.create addContactApp to add the contacts into the created file
+
+```
+a)take inputs form user using scanner regarding name, dob , email, create date etc
+b) check in the path whether there is any .txt file
+c) if the  input from user matches with txt file and add the above inputs to .txt file
+
+```
+
+14. create EditContactApp
+
+```
+a) this allows the user to edit contacts in .txt files
+b) take filename and contact name from user
+c) check in the path is there any txt file that matches the file name using for loop
+d) if exists read the contents of the file using the buffered reader
+e) Read one one line at a time and check whether the contact name is present in that line
+f) if present edit the file using Buffered writer
+
+```
+
+15. Create removeContacts
+
+```
+a) this allows the user to remove contacts in .txt files
+b) take filename and contact name from user
+c) check in the path is there any txt file that matches the file name using for loop
+d) if exists read the contents of the file using the buffered reader
+e) Read one one line at a time and check whether the contact name is present in that line
+f) if present remove the contact in the file using Buffered writer
+
+```
+
+16. Create searchContacts
+
+```
+a) this allows the user to search Contacts  in .txt files
+b) take filename and contact name from user
+c) check in the path is there any txt file that matches the file name using for loop
+d) if exists read the contents of the file using the buffered reader
+e) Read one one line at a time and check whether the contact name is present in that line
+f) if present print the occurance of the string in that file
+
+```
+
+17. Create ListContacts
+
+```
+
+a) this allows the user to List Contacts in .txt files
+b) take filename and contact name from user
+c) check in the path is there any txt file that matches the file name using for loop
+d) if exists read the contents of the file using the buffered reader
+e) Read one one line at a time and compare each line by using comparator.
+f) and list the contacts in the file after comparison
+
+```
+
+```
+
+```

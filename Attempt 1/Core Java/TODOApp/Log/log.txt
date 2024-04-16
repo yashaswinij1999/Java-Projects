@@ -1,0 +1,42 @@
+
+Good Evening : Sun Aug 20 20:46:07 IST 2023
+Task Manager Started : Sun Aug 20 20:47:46 IST 2023
+Loading category Name : Sun Aug 20 20:47:55 IST 2023
+entering deleting the task : Sun Aug 20 20:47:59 IST 2023
+deleted successfully : Sun Aug 20 20:48:24 IST 2023
+Task Manager Started : Sun Aug 20 20:54:49 IST 2023
+Loading category Name : Sun Aug 20 20:54:52 IST 2023
+entering deleting the task : Sun Aug 20 20:54:56 IST 2023
+deleted successfully : Sun Aug 20 20:55:06 IST 2023
+Task Manager Started : Sun Aug 20 20:55:44 IST 2023
+Delete category : Sun Aug 20 20:55:48 IST 2023
+file deleted successfully : Sun Aug 20 20:55:55 IST 2023
+Delete category : Sun Aug 20 20:56:05 IST 2023
+file deleted successfully : Sun Aug 20 20:56:14 IST 2023
+Delete category : Sun Aug 20 20:56:19 IST 2023
+file deleted successfully : Sun Aug 20 20:56:21 IST 2023
+Delete category : Sun Aug 20 20:56:28 IST 2023
+file deleted successfully : Sun Aug 20 20:56:31 IST 2023
+search category Name : Sun Aug 20 20:57:21 IST 2023
+search category Name : Sun Aug 20 20:57:44 IST 2023
+Task Manager Started : Sun Aug 20 20:58:48 IST 2023
+search category Name : Sun Aug 20 20:58:50 IST 2023
+Task Manager Started : Sun Aug 20 21:00:41 IST 2023
+search category Name : Sun Aug 20 21:00:43 IST 2023
+Task Manager Started : Sun Aug 20 21:01:51 IST 2023
+search category Name : Sun Aug 20 21:01:53 IST 2023
+Task Manager Started : Tue Aug 22 18:52:38 IST 2023
+Loading category Name : Tue Aug 22 18:52:43 IST 2023
+entering deleting the task : Tue Aug 22 18:52:49 IST 2023
+entering deleting the task : Tue Aug 22 18:53:01 IST 2023
+deleted successfully : Tue Aug 22 18:53:13 IST 2023
+entering deleting the task : Tue Aug 22 18:53:32 IST 2023
+deleted successfully : Tue Aug 22 18:53:45 IST 2023
+entering deleting the task : Tue Aug 22 18:53:50 IST 2023
+deleted successfully : Tue Aug 22 18:54:01 IST 2023
+Task Manager Started : Tue Aug 22 18:56:58 IST 2023
+Delete category : Tue Aug 22 18:57:00 IST 2023
+Task Manager Started : Tue Aug 22 18:57:07 IST 2023
+Loading category Name : Tue Aug 22 18:57:10 IST 2023
+entering deleting the task : Tue Aug 22 18:57:16 IST 2023
+entering deleting the task : Tue Aug 22 18:57:30 IST 2023
